@@ -58,7 +58,7 @@ export const projects = [
     built: 'OCR, semantic chunking, summarization, usage tracking, and API endpoints.',
     technical: 'Interesting because it connects OCR, NLP chunking, auth, and product usage tracking in one flow.',
     status: 'Active flagship project showing end-to-end AI product thinking.',
-    githubUrl: null,
+    githubUrl: 'https://github.com/kpatel1607/ai-notes-summarizer',
     demoUrl: null,
   },
   {
@@ -78,7 +78,7 @@ export const projects = [
     built: 'Emotion and sarcasm classification pipeline with FastAPI inference.',
     technical: 'Interesting because it applies transformer inference to tone signals that simple sentiment misses.',
     status: 'Functional NLP project demonstrating transformer application.',
-    githubUrl: null,
+    githubUrl: 'https://github.com/kpatel1607/MoodLens',
     demoUrl: null,
   },
   {
